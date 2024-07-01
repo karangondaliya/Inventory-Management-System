@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
     <h1>Inventory Management System</h1>
-    <p>This Inventory Management System is built using Spring REST API, designed to efficiently manage and track inventory for a business. It provides a user-friendly interface for adding, updating, deleting, and retrieving inventory items.</p>
+    <p>This Inventory Management System is built using Spring REST API, designed to efficiently manage and track inventory for a business.</p>
     <h2>Features</h2>
     <ul>
         <li><strong>CRUD Operations</strong>: Perform Create, Read, Update, and Delete operations on inventory items.</li>
